@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date on Tile</string>
+    <string name="tile_label">Date</string>
+</resources>
